@@ -24,12 +24,12 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/d4-dhiraj">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=d4-dhiraj&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="d4-dhiraj's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=d4-dhiraj&layout=compact&theme=radical&border_radius=10" alt="d4-dhiraj's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=d4-dhiraj&theme=radical&hide_border=true&cache_seconds=86400" alt="d4-dhiraj's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=d4-dhiraj&theme=radical&hide_border=true" alt="d4-dhiraj's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=d4-dhiraj&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Dhiraj Maurya's GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=d4-dhiraj" alt="Dhiraj Maurya's GitHub Trophies" />
 </p>
 
 
