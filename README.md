@@ -1,9 +1,10 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Dhiraj Maurya</h1>
-<h3 align="center">Student</h3>
+<h3 align="center">MERN Developer | Open Source Contributor | Hackathon Builder</h3>
 
 <p align="center">
+  <a href="https://d4dhiraj.tech"><img src="https://img.shields.io/badge/Portfolio-d4dhiraj.tech-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=1F2937" alt="Portfolio" /></a>
   <a href="https://komarev.com/ghpvc/?username=d4-dhiraj">
-    <img src="https://komarev.com/ghpvc/?username=d4-dhiraj&label=Profile%20views&color=00FFFF&style=flat-square" alt="d4-dhiraj's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=d4-dhiraj&label=Profile%20views&color=0D9488&labelColor=1F2937&style=for-the-badge" alt="Profile views" />
   </a>
 </p>
 
@@ -13,26 +14,11 @@
 
 ## 📌 About Me
 - 🎓 Student at REC Sonbhadra, building full-stack web apps with the MERN stack
-- 🤝 Open Source Contributor(Contributed to Kestra, FreeCodeCamp and many other repos)
+- 🤝 Open source contributor to Kestra and freeCodeCamp
+- 🏆 Hackathon builder: BrandLoom and InnovateHub (Smart India Hackathon 2026)
 - 🧠 Currently learning: Backend development (Node.js, databases, APIs, authentication)
 - ⚔️ Currently doing: Competitive programming and DSA in C++ (LeetCode, Codeforces)
 - 🎯 Next goals: DevOps (Docker, CI/CD)
-
-## 🧠 My Focus Areas
-- Web Development
-- DSA
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/d4-dhiraj">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=d4-dhiraj&layout=compact&theme=radical&border_radius=10" alt="d4-dhiraj's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=d4-dhiraj&theme=radical&hide_border=true" alt="d4-dhiraj's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=d4-dhiraj" alt="Dhiraj Maurya's GitHub Trophies" />
-</p>
 
 
 ## 🛠️ Languages & Tools
@@ -44,7 +30,7 @@
 
 <h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" alt="Frameworks" />
 </p>
 
 <h3 align="center">Database & Backend Services</h3>
@@ -57,25 +43,36 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools" />
 </p>
 
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/d4-dhiraj">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=d4-dhiraj&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=d4-dhiraj&layout=compact&theme=radical&border_radius=10" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=d4-dhiraj&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=d4-dhiraj&theme=radical&hide_border=true" alt="GitHub Streak" width="60%" />
+</p>
+
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/d4-dhiraj">
+    <img height="180em" src="https://leetcard.jacoblin.cool/d4-dhiraj?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=d4-dhiraj)
-<br/>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <a href="https://codeforces.com/profile/d4-dhiraj">
+    <img height="180em" src="https://codeforces-readme-stats.vercel.app/api/card?username=d4-dhiraj&theme=radical" alt="Codeforces Stats" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/d4dhiraj">
+    <img height="180em" src="https://geeks-for-geeks-stats-card.vercel.app/?username=d4dhiraj&theme=dark" alt="GeeksforGeeks Stats" />
+  </a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
-</div>
-
 ## 📬 Connect With Me
+
 <p align="center">
   <a href="https://linkedin.com/in/d4-dhiraj" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -85,6 +82,9 @@
   </a>
   <a href="https://leetcode.com/u/d4-dhiraj" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/d4-dhiraj" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/d4dhiraj" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
