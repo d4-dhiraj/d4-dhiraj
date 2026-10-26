@@ -7,14 +7,16 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;Open+Source+Contributor;Hackathon+Builder;Learning+Backend+%26+Competitive+Programming" alt="Typing animation" />
+</p>
 
 ## 📌 About Me
-- 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate on Web Development and Open Source Contribution
-- 📫 Future Goals:- DSA(C++), AI / ML
-- ⚡ Fun fact:- I Like to Code
-
+- 🎓 Student at REC Sonbhadra, building full-stack web apps with the MERN stack
+- 🤝 Open Source Contributor(Contributed to Kestra, FreeCodeCamp and many other repos)
+- 🧠 Currently learning: Backend development (Node.js, databases, APIs, authentication)
+- ⚔️ Currently doing: Competitive programming and DSA in C++ (LeetCode, Codeforces)
+- 🎯 Next goals: DevOps (Docker, CI/CD)
 
 ## 🧠 My Focus Areas
 - Web Development
@@ -35,27 +37,26 @@
 
 ## 🛠️ Languages & Tools
 
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,python,html,css" alt="Languages" />
 </p>
 
-<h3 align="center">Frontend</h3>
+<h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" alt="Frameworks" />
 </p>
 
-<h3 align="center">Tools</h3>
+<h3 align="center">Database & Backend Services</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase" alt="Database" />
 </p>
+
+<h3 align="center">Tools & Deployment</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" alt="Tools" />
+</p>
+
 
 <p align="center">
   <a href="https://github.com/d4-dhiraj">
